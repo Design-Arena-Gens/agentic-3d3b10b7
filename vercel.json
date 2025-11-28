@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "name": "agentic-3d3b10b7",
+  "env": {
+    "NEXT_TELEMETRY_DISABLED": "1"
+  }
+}
